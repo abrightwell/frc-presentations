@@ -8,7 +8,7 @@
 # Who?
 
 * Software/Database Engineer
-* Contributor to [PostgreSQL](http://www.postgresql.org/) Open Source Database
+* [PostgreSQL](http://www.postgresql.org/) Open Source Database
 * Team 4533 - Lead Programming and Controls Mentor
 
 
