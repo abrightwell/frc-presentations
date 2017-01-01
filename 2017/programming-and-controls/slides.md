@@ -41,7 +41,7 @@
 
 
 ## Example Driver Station
-![frc-driver-station](/images/frc-driver-station.jpeg)
+![frc-driver-station](./images/frc-driver-station.jpeg)
 
 
 ## Robot Control System
@@ -133,7 +133,7 @@
 
 
 # Version Control
-![octocat](/images/octocat.png)
+![octocat](./images/octocat.png)
 
 Workshop?
 
