@@ -68,7 +68,7 @@
 
 
 ## LabView
-![labview-image](/images/labview.jpg)
+![labview-image](./images/labview.jpg)
 
 
 ## Java
