@@ -76,18 +76,17 @@
 ## Java
 <ul>
     <li class="fragment">Object Oriented Programming (OOP) Language</li>
-    <li class="fragment">Owned and maintained by Oracle</li>
-    <li class="fragment">Java Micro Edition (Java ME)</li>
+	<li class="fragment">Use Eclipse IDE</li>
     <li class="fragment">Beginner Friendly</li>
-    <li class="fragment">([Installing Java Development Tools](http://wpilib.screenstepslive.com/s/3120/m/7885/l/79405-installing-the-java-development-tools))</li>
+    <li class="fragment">[Installing Java Development Tools](http://wpilib.screenstepslive.com/s/4485/m/13503)</li>
 </ul>
 
 
 ## C++
 <ul>
 <li class="fragment">Object Oriented Programming Language</li>
-<li class="fragment">No longer WindRiver C++ (woot!)</li>
-<li class="fragment">Not Beginner Friendly (I can't remember what I did with my memory)</li>
+<li class="fragment">Use Eclipse IDE</li>
+<li class="fragment">Not Beginner Friendly</li>
 <li class="fragment">Workshop will be available</li>
 </ul>
 
