@@ -132,6 +132,15 @@
 
 
 
+# [What's Changed](https://wpilib.screenstepslive.com/s/4485/m/13503/l/681378-new-for-2017)?
+* WPILib is now Open Source!!!! [GitHub - WPILib Suite](https://github.com/wpilibsuite)
+* Most 3rd party devices unbundled from core WPILib ([CANTalon](http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources), etc.).
+* Moving away from NIVision in favor of [OpenCV](http://opencv.org/).
+* New 'commands' added to reduce boiler plate (TimedCommand, etc).
+* [XBoxController class](https://github.com/wpilibsuite/allwpilib/blob/master/wpilibj/src/athena/java/edu/wpi/first/wpilibj/XboxController.java) added.
+
+
+
 # Version Control
 ![octocat](./images/octocat.png)
 
