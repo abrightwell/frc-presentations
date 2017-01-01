@@ -16,16 +16,13 @@
 # Controls
 
 
-# Overview
-
-
-## Control System
+## Control System Overview
 <ul>
 <li class="fragment">Driver Control System - The interface between the operator and the robot</li>
 
 <li class="fragment">Robot Control System - The electronic hardware/software inside the robot</li>
 
-<li class="fragment">Wireless Communication System - A local area network router establishing wireless/tethered communication between a driver and the robot</li>
+<li class="fragment">Robot Communication System - A local area network router establishing wireless/tethered communication between a driver and the robot</li>
 </ul>
 
 
@@ -40,17 +37,22 @@
 </ul>
 
 
-## Example Driver Station
-![frc-driver-station](./images/frc-driver-station.jpeg)
-
-
 ## Robot Control System
 
-<ul>
-<li>A National Instruments roboRIO (no more cRIO)</li>
-<li>A power distribution system (new)</li>
-<li>Motor controllers, relays, solenoids, sensors, etc.</li>
-</ul>
+
+## National Instruments roboRIO
+![frc-roborio](./images/roborio.png)
+
+
+## Power distribution system
+<img src="./images/pdb.png" width="200px">
+
+
+## Motor controllers, relays, solenoids, sensors, etc.
+![talon-srx](./images/talon-srx.png) ![spike-relay](./images/spike-relay.png)
+
+
+## [Getting Started](http://wpilib.screenstepslive.com/s/4485/m/13503)
 
 
 
