@@ -175,6 +175,5 @@ Workshop?
 # Contact
 
 * Email: [adam.brightwell@gmail.com](mailto:adam.brightwell@gmail.com)
-* GTalk: adam.brightwell
-* Skype: adam.brightwell
-* IRC: abrightwell@irc.freenode.net
+* GTalk/Hangout: adam.brightwell
+* Slack: [adam.brightwell](https://scfrc.slack.com)
